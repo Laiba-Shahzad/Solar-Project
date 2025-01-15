@@ -1,0 +1,156 @@
+Building name: house
+
+Number of appliances used at peak time of sun: 
+Fans (80W): 2
+AC 1 ton inverter (900W): 1
+AC 1.5 ton inverter (1500W): 0
+AC 2 ton inverter (1900W): 1
+Room Cooler (750W): 3
+Fridge and Freezer (180W each): 2
+Iron (1000W): 1
+Washing Machine (900W): 1
+Microwave (1200W): 2
+Heater and Geyser (2000W each): 2
+Pump motor (1hp and 750W): 1
+TV (100W): 2
+Light Bulbs (12W): 6
+Exhaust Fans (60W): 3
+straightner (1000) : 1
+
+
+                                                                      QUOTATION                                                                       
+
+No.    Item                       Quantity                Rate (PKR)              Cost (PKR)              
+
+----------------------------------------------------------------------------------------------------
+
+1.     Panels                     34                      17250                   586500                  
+
+2.     Inverter                   1                       35000/kW                770000                  
+
+3.     Batteries                  22                      35500                   781000                  
+       (5 hours backup)           
+
+4.     DC Wires                   30 yards                300 per yard            9000                    
+
+5.     Protection DB - Breakers   1                       10000                   10000                   
+
+6.     Stands (L-3)               12                      9500                    114000                  
+
+7.     Installation               -                       -                       67854.9                 
+
+8.     Miscellaneous Expenses     -                       -                       15000                   
+
+----------------------------------------------------------------------------------------------------
+
+Total cost: 2344685 PKR
+Required area: 136ft by 68ft
+
+
+                                                                       SAVINGS                                                                        
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SUMMER      6 am    7 am    8 am    9 am    10 am   11 am   12 am   1 pm    2 pm    3 pm    4 pm    5 pm    6 pm      TOTAL          
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Solar       45      3858.4  7715.4  11572.4 15429.4 19286.4 19286.4 19286.4 15429.4 11572.4 7715.4  3858.4  45        135100         53.8843 % saving  
+
+Required    19286.4 19286.4 19286.4 19286.4 19286.4 19286.4 19286.4 19286.4 19286.4 19286.4 19286.4 19286.4 19286.4   250723         
+
+Wapda       19241.4 15428   11571   7714    3857    0       0       0       3857    7714    11571   15428   19241.4   115623         46.1157 % wapda   
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+WINTER      6 am    7 am    8 am    9 am    10 am   11 am   12 am   1 pm    2 pm    3 pm    4 pm    5 pm    6 pm      TOTAL          
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Solar       0       0       3858.4  7715.4  11572.4 15429.4 19286.4 15429.4 11572.4 7715.4  3858.4  0       0         96437.6        38.4638 % saving  
+
+Required    19286.4 19286.4 19286.4 19286.4 19286.4 19286.4 19286.4 19286.4 19286.4 19286.4 19286.4 19286.4 19286.4   250723         
+
+Wapda       19286.4 19286.4 15428   11571   7714    3857    0       3857    7714    11571   15428   19286.4 19286.4   154286         61.5362 % wapda   
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Units (1000 x 1hr = 1 unit): 19.2864 kWh
+Daily unit (6am - 6pm): 250.723 kWh
+Monthly unit (30 days): 7521.7 kWh
+Monthly cost at 60Rs per unit: 451302 PKR
+Minimum saving at 38.4638%: 2893.13 kWh & 173588 PKR
+Solar cost: 2344685 PKR
+Months to recover cost of solar: 13.5072
+
+
+                                                                     INSTRUCTIONS                                                                     
+
+Make sure to follow these instructions to get maximum output: 
+
+1. Keep solar panels out of shade as energy production becomes inefficient when they are kept from absorbing any sunlight.
+
+2. Each L3 stand can only have 3 panels
+
+3. Do a periodic light cleaning to make sure dirt, leaves, and other debris aren't obstructing the sun's rays
+
+4. Use a soft-bristled cleaning brush and a non-abrasive cleaner. Be sure to clean the panels early in the morning before they get too hot from the sun. The panels are made of tempered glass, and the extreme temperature disparity between hot water and cold panels can crack them.
+
+5. When the temperature gets over 77F (or 25C), panels lose efficiency approximately 1% per degree. However, by elevating them a few inches above the ground or roof, 
+you allow for air circulation, which can help cool them down and maintain energy production.
+
+6.  It is vital that you work with a professional to have them installed. Improper roof anchor installation can damage your roof tiles, or leave the panel insecurely 
+ attached.
+
+7. The panels have to be wired to an inverter. The panels themselves are pre wired but should still be wired up by an MCS-certified installer; problems include 
+ dangerous earthing or exposed cabling.
+
+8. If the support legs are installed too low on the panel, it may be at an angle that causes wind load stress.
+
+9. Plan for 10-20 square meters of open roof space per 1 kW of solar capacity. A 5 kW system needs about 100 square meters.
+
+10.It is a good idea to have your panels cleaned every 1-2 weeks, to get maximum output.
+
+
+                                                             SUGGESTIONS & RECOMMENDATIONS                                                            
+
+1. Solar panels require very little maintenance, especially if they are on a tilt, as rain can wash away any debris.
+
+2. By integrating a solar panel monitoring system into your setup, you can track how much energy your panels produce on any given day and how much they produce over 
+ time.
+
+3. You might want to avoid having solar panels installed in the shadow of a tree or nearby roosting birds. Not only would the shadow reduce the effectiveness of the 
+ panels, but it may encourage birds to fly over and land in the trees, which you don't want.
+
+4. Solar panels typically last 25+ years. Installing them on an aging roof that needs replacement soon won’t maximize the investment. Newer roofs are ideal.
+
+5. Pitched, sloped roofs are best suited for solar panel mounting. Flat roofs can work but require additional racking equipment.
+
+6.Check roof orientation. Ideal orientations are for Northern Hemisphere: South-facing roof and for Southern Hemisphere: North-facing roof.
+
+7. Some external sources you can refer to are: 
+	https://tahirenergylinks.com/solar-power-at-home/#:~:text=Keeping%20Your%20System%20Performing%20at,panel%20shading%20and%20soiling%20losses
+	https://www.itsmysun.com/residential-solar-11-things-keep-mind-installing-residential-solar-system/
+	https://www.itsmysun.com/residential-solar-11-things-keep-mind-installing-residential-solar-system/
+
+8. Panel(LONGI 5) is the brand we used for our calculations. Some other brands you may consider are Jinko N-type and Canadian Bifacial.
+
+9. We have used Inverex's inverter for our calculations. You may also consider FoxEss, SolarMax or MaxPower for inverter
+
+11. We have used Exide's N-250 31 plates lead acid batteries, considering 5 hours backup. You may also use Atlas batteries, and may reduce backup to reduce 
+ cost
+
+12. Many companies in Pakistan are dedicated to advancing solar energy as a sustainable source. The following are the best solar companies: 
+	Alpha Solar 
+	Sympl Energy 
+	Premier Energy 
+	Pantera 
+	Reon 
+	Sky Electric
+
+13. For latest market rates, visit: 
+	https://solarpricepakistan.com/
+	https://priceware.pk/solar-panel-price-in-pakistan/
+
